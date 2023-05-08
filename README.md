@@ -1,3 +1,4 @@
+#This project refer this job: https://github.com/zhangxianbing/jetson_stats
 # TX2_jetson_stats_monitor
 use tegrastats and TX2 INA3221 monitoring CPU, gpu, etc information
 
